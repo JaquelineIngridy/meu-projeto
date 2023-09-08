@@ -1,0 +1,26 @@
+body{
+    background-color: #000;
+}
+
+body.bg_filmes{
+    background-image: url(Netflix-Background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+header{
+    max-width:200px;
+    max-height:150px;
+    width: auto;
+    height: auto;
+
+    background: linear-gradient(
+        180deg,
+        rgba(0,0,0,0.69)0%,
+        rgba(0,0,0,0)100%
+    );
+}
+#caixa_login{
+    background: rgba(0,0,0,0.7);
+    padding: 30px;
+    /*margin-top: 150px;*/
+}
