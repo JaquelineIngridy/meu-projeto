@@ -1,0 +1,16 @@
+div{
+    background-color:rgb(117, 110, 101)
+    
+  }
+  div {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+  }
+  img {
+    background: lightblue;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
